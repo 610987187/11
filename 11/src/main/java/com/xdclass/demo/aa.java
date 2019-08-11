@@ -9,6 +9,6 @@ public class aa {
     @RequestMapping("/index")
     public String hello(){
         System.out.println("aaa");
-        return "1";
+        return "12";
     }
 }
