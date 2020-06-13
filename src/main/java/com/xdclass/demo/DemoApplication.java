@@ -7,15 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     public static void main(String[] args) {
-        //sss
-        //sourt
-        //33
-        //pp
-        //99
-        //ii
-        //22
-        //ooo
-        SpringApplication.run(DemoApplication.class, args);
+SpringApplication.run(DemoApplication.class, args);
     }
 
 }
