@@ -8,11 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class aa {
     @RequestMapping("/index")
     public String hello(){
-        System.out.println("aaa");
-        //ll
-        //22
-        //3344
-        //11
+       //11
         return "h111111111111";
     }
 }
